@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>UPV-PRHLT</Creator>
+    <Created>2013-03-08T07:03:58</Created>
+    <LastChange>2015-12-14T11:11:37</LastChange>
+  </Metadata>
+  <Page imageFilename="027_027_003.jpg" imageHeight="4096" imageWidth="2731">
+    <TextRegion id="t1">
+      <Coords points="814,221 920,214 934,262 1635,251 2147,268 2278,355 1981,381 1485,400 1130,400 811,417 767,281 812,218" />
+      <TextLine id="191">
+        <Coords points="804,218 922,204 924,240 844,314 802,330 768,307 762,258" />
+        <TextEquiv>
+          <Unicode>11)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="192">
+        <Coords points="924,271 862,305 838,348 834,411 834,412 880,418 965,392 1078,381 1081,381 1451,387 1860,370 1877,370 2175,360 2178,360 2242,351 2247,278 2134,261 2110,261 1982,268 1970,270 1952,271 1940,272 1928,274 1901,274 1510,261 1508,261 1208,240 1197,240 1010,250 1000,252 988,254 985,257 967,262" />
+        <TextEquiv>
+          <Unicode>Of the Principles of human action</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

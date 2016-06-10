@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>UPV-PRHLT</Creator>
+    <Created>2013-03-08T07:03:58</Created>
+    <LastChange>2015-12-14T11:11:37</LastChange>
+  </Metadata>
+  <Page imageFilename="027_024_003.jpg" imageHeight="4096" imageWidth="2731">
+    <TextRegion id="t1">
+      <Coords points="794,208 922,204 958,257 2531,245 2581,355 2555,398 964,407 775,395 775,218 795,204" />
+      <TextLine id="187">
+        <Coords points="805,192 768,265 791,291 860,275 910,244 922,208 827,187" />
+        <TextEquiv>
+          <Unicode>3)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="188">
+        <Coords points="831,285 795,334 802,355 804,357 1005,365 1008,365 1151,387 1154,388 1580,391 2025,382 2585,360 2571,314 2528,282 2467,254 2465,254 2391,250 2182,248 1980,257 1820,272 1811,275 1592,254 1495,257 1492,257 1370,260 1367,260 1242,265 961,265 957,267 891,255 887,255" />
+        <TextEquiv>
+          <Unicode>Method of calculating the mischief of an offence.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

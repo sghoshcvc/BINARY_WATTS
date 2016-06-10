@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>UPV-PRHLT</Creator>
+    <Created>2013-03-08T03:03:58</Created>
+    <LastChange>2015-12-14T11:11:37</LastChange>
+  </Metadata>
+  <Page imageFilename="073_031_002.jpg" imageHeight="4096" imageWidth="2731">
+    <TextRegion id="t1">
+      <Coords points="921,320 1098,236 1424,284 2171,273 2175,431 1515,463 946,440 927,386" />
+      <TextLine id="6489">
+        <Coords points="973,319 967,328 964,342 960,353 957,366 957,391 955,401 958,414 967,421 978,424 989,424 1001,426 1012,426 1021,433 1032,437 1042,439 1092,439 1105,437 1117,437 1132,435 1199,435 1210,439 1224,441 1239,444 1251,446 1335,446 1353,448 1410,448 1423,449 1435,451 1446,451 1464,453 1476,455 1505,455 1521,457 1846,457 1858,455 1873,453 1887,453 1903,449 1916,446 1926,442 1942,441 1953,439 1969,435 1980,435 1992,433 2017,430 2035,426 2046,424 2057,421 2085,421 2096,419 2108,416 2126,408 2135,403 2142,394 2150,387 2158,374 2162,364 2167,355 2167,332 2162,323 2157,310 2146,303 2137,298 2128,292 2116,287 2103,285 2089,278 2071,276 1916,276 1901,275 1891,273 1876,269 1864,269 1851,267 1841,266 1821,262 1624,262 1603,267 1591,269 1576,271 1562,273 1549,275 1532,276 1496,276 1480,280 1469,282 1458,283 1426,283 1412,287 1389,289 1355,296 1332,298 1308,301 1283,303 1248,310 1167,310 1151,305 1135,298 1125,292 1117,285 1114,275 1107,266 1069,266 1058,267 1048,271 1037,276 1026,282 1016,287 1008,294 999,299 989,303 980,308 971,314" />
+        <TextEquiv>
+          <Unicode>Offences against the Coin</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="t2">
+      <Coords points="775,504 2524,501 2576,756 2581,2891 2575,4034 631,3992 689,3775 747,2720 800,2675 821,2555 750,2475 747,1949 723,926 737,526" />
+      <TextLine id="6490">
+        <Coords points="767,553 766,566 764,576 758,592 757,603 757,616 758,630 764,639 767,649 780,655 796,660 812,662 824,664 839,666 853,669 864,671 874,673 944,673 960,669 974,667 1353,667 1366,669 1378,673 1394,674 1721,674 1739,676 1799,676 1816,678 2053,678 2078,676 2100,674 2273,674 2296,673 2321,669 2333,667 2350,664 2367,660 2382,658 2392,655 2403,655 2417,648 2430,646 2442,644 2455,641 2466,639 2476,637 2491,635 2501,633 2512,628 2516,617 2521,608 2523,598 2517,587 2508,582 2498,580 2483,575 2467,573 2453,571 2442,569 2398,569 2382,566 2369,564 2358,558 2348,557 2337,553 2325,551 2312,546 2287,542 2271,539 2257,537 2244,535 2225,533 2208,532 2194,530 2167,528 1976,528 1960,530 1944,530 1921,532 1908,533 1896,535 1883,537 1498,537 1487,539 1446,539 1428,541 1346,541 1335,539 1324,537 1308,537 1296,533 1282,532 835,532 819,533 805,535 789,537 778,541 769,548" />
+        <TextEquiv>
+          <Unicode>to so terrible a death and if by chance such a man</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6491">
+        <Coords points="755,773 753,785 751,796 748,807 746,817 746,828 753,837 764,846 773,851 785,855 801,857 1058,857 1076,860 1091,862 1135,862 1148,866 1744,866 1766,867 1780,869 2248,869 2257,864 2269,862 2280,862 2292,860 2337,860 2360,858 2373,857 2383,855 2394,855 2414,851 2430,849 2444,846 2460,842 2473,841 2487,835 2498,832 2508,830 2523,824 2532,817 2541,808 2549,801 2555,792 2558,782 2560,769 2560,758 2557,748 2544,741 2535,733 2523,730 2505,726 2480,724 2437,724 2424,726 2341,726 2316,728 2189,728 2169,726 2158,724 2142,723 1894,723 1882,721 1871,719 1858,716 1839,714 1382,714 1357,712 1067,712 1050,708 1023,708 1005,710 994,712 978,716 960,717 948,719 924,724 912,724 901,726 887,728 866,732 849,733 839,737 823,739 805,742 794,744 778,748 767,749 758,755 757,766 749,774" />
+        <TextEquiv>
+          <Unicode>were to be found the Offices of Justice from the lowest</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6492">
+        <Coords points="742,937 742,1062 2541,1062 2541,937" />
+        <TextEquiv>
+          <Unicode>to the highest would all be setting themselves to work</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6493">
+        <Coords points="733,1098 733,1230 2514,1230 2514,1098" />
+        <TextEquiv>
+          <Unicode>to find out pretences for enabling the offender to get</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6494">
+        <Coords points="744,1312 744,1428 2562,1428 2562,1312 2378,1260" />
+        <TextEquiv>
+          <Unicode>clear. Where he even convicted, this business would not</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6495">
+        <Coords points="742,1528 742,1666 2487,1666 2487,1528" />
+        <TextEquiv>
+          <Unicode>be much the forwarder for it: for no King that has</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6496">
+        <Coords points="750,1716 750,1841 2473,1841 2473,1716 2244,1691" />
+        <TextEquiv>
+          <Unicode>even sat on the English throne since James 2.d could</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6497">
+        <Coords points="753,1948 753,2046 2528,2046 2528,1948 2300,1926" />
+        <TextEquiv>
+          <Unicode>bear to let such an offender suffer such a death nor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6498">
+        <Coords points="755,2142 755,2230 2576,2230 2576,2142" />
+        <TextEquiv>
+          <Unicode>were he disposed to bear it would the people be patient</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6499">
+        <Coords points="760,2326 760,2451 1635,2451 1635,2326" />
+        <TextEquiv>
+          <Unicode>witnesses of his Patience</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6500">
+        <Coords points="1046,2467 1046,2653 2526,2653 2526,2467" />
+        <TextEquiv>
+          <Unicode>In France there is a greater variety of coin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6501">
+        <Coords points="758,2714 758,2878 2530,2878 2530,2714" />
+        <TextEquiv>
+          <Unicode>there than in England and yet but little of it bad. In</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6502">
+        <Coords points="737,2926 737,3071 2541,3071 2541,2926" />
+        <TextEquiv>
+          <Unicode>France the punishment for coining is capital, and that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6503">
+        <Coords points="776,3125 776,3298 2539,3298 2539,3125" />
+        <TextEquiv>
+          <Unicode>it must be confessed if a very afflictive kind, scalding to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6504">
+        <Coords points="760,3325 760,3466 2532,3466 2532,3325" />
+        <TextEquiv>
+          <Unicode>death. In England there is a vast quantity of bad coin and</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6505">
+        <Coords points="737,3539 737,3698 2553,3698 2553,3539" />
+        <TextEquiv>
+          <Unicode>yet the punishment is capital In the Austrian domin-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6506">
+        <Coords points="726,3741 726,3887 2541,3887 2541,3741" />
+        <TextEquiv>
+          <Unicode>-ions there is as little bad coin in France, and yet the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6507">
+        <Coords points="2071,3901 2071,3980 2541,3980 2541,3901 2323,3892" />
+        <TextEquiv>
+          <Unicode>punishment</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

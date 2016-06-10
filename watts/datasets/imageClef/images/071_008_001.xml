@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>UPV-PRHLT</Creator>
+    <Created>2013-03-08T05:03:58</Created>
+    <LastChange>2015-12-14T11:11:37</LastChange>
+  </Metadata>
+  <Page imageFilename="071_008_001.jpg" imageHeight="4096" imageWidth="2731">
+    <TextRegion id="t1">
+      <Coords points="501,267 1504,248 1774,265 1805,381 481,402 504,264" />
+      <TextLine id="658">
+        <Coords points="1357,251 1383,277 1663,277 1664,278 1665,278 1666,279 1667,279 1668,280 1669,280 1712,323 1761,323 1762,324 1763,324 1779,340 1794,340 1794,343 1793,343 1791,345 1791,348 1790,349 1790,352 1789,353 1784,353 1783,354 1783,365 1780,365 1779,366 1777,366 1776,367 1164,367 1163,368 864,368 863,369 552,369 547,374 547,375 546,376 546,377 539,384 539,385 537,387 537,388 536,389 536,390 535,391 535,392 533,394 533,396 532,397 524,397 523,396 523,381 506,364 506,363 505,362 505,356 506,355 506,353 507,352 507,350 509,348 509,347 511,345 511,344 513,342 513,341 515,339 515,338 525,328 525,327 528,324 528,323 532,319 532,318 539,311 539,310 542,307 542,306 543,306 551,298 553,298 554,297 556,297 557,296 588,296 605,279 606,279 607,278 608,278 609,277 776,277 778,275 779,275 782,272 783,272 786,269 787,269 788,268 791,268 793,266 1342,266" />
+        <TextEquiv>
+          <Unicode>Of Excuses Extenuations</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="t2">
+      <Coords points="148,505 1385,442 1895,654 1888,848 1900,1061 1900,2775 1910,3247 1910,3761 2155,3877 2160,3972 102,4004 91,3922 164,3911 138,3274 138,2245 148,504" />
+      <TextLine id="659">
+        <Coords points="1120,461 1205,462 1168,525 1105,530 1102,491" />
+        <TextEquiv>
+          <Unicode>1</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="660">
+        <Coords points="641,600 701,525 892,550 1411,561 1470,594 1471,638 1407,642 1404,642 974,634 927,644 851,671 825,651 824,648 812,637 674,637 654,638" />
+        <TextEquiv>
+          <Unicode>Pleading an extenuation,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="661">
+        <Coords points="651,640 607,640 574,691 601,710 721,737 731,740 741,740 847,735 905,724 1188,732 1394,731 1565,752 1652,748 1800,721 1831,694 1801,667 1795,667 1558,620 1457,644 1407,644 964,624 884,668 875,670 845,672 812,637 690,637" />
+        <TextEquiv>
+          <Unicode>Making Excuse, or setting forth or</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="662">
+        <Coords points="525,734 580,720 607,754 728,744 880,731 1090,738 1452,738 1485,801 1487,802 1427,807 1415,810 1405,810 1347,814 1307,830 1281,830 1122,807 991,808 951,832 922,810 832,814 638,808 602,800 332,824 252,832 235,807 181,808 161,808 157,761 252,728 254,728 348,690 482,721" />
+        <TextEquiv>
+          <Unicode>alledging extenuation, is the allegation</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="663">
+        <Coords points="198,808 154,855 171,884 307,887 495,878 542,920 602,908 627,878 1112,895 1558,880 1762,877 1875,871 1877,810 1717,787 1537,787 1501,804 1418,807 1307,830 1250,824 1107,807 1000,807 947,827 927,808 844,808 631,802 584,800 347,831 254,838 241,805 202,805" />
+        <TextEquiv>
+          <Unicode>an Excuse &lt;gap/&gt;&lt;gap/&gt;&lt;gap/&gt;&lt;gap/&gt; hearing of any</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="664">
+        <Coords points="581,930 638,908 658,915 651,974 651,975 591,975 588,967" />
+        <TextEquiv>
+          <Unicode>[+]</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="665">
+        <Coords points="262,947 251,947 171,952 142,1037 280,1060 291,1060 300,1062 941,1068 1905,1031 1908,932 1427,930 1424,930 731,948 728,948 631,990 550,981 548,981 427,950 344,950" />
+        <TextEquiv>
+          <Unicode>circumstance which renders an offence less penal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="666">
+        <Coords points="197,1094 150,1102 144,1201 645,1204 1000,1210 1460,1207 1422,1135 760,1095 472,1074 455,1074 282,1085" />
+        <TextEquiv>
+          <Unicode>than it would be otherwise. (----)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="667">
+        <Coords points="1135,1228 1158,1211 1200,1210 1195,1261 1145,1261" />
+        <TextEquiv>
+          <Unicode>2</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="668">
+        <Coords points="977,1274 1017,1247 1074,1262 1185,1262 1188,1264 1391,1258 1365,1315 1362,1315 1248,1314 1108,1315 1091,1315 1007,1322 990,1315 988,1302" />
+        <TextEquiv>
+          <Unicode>Extenuation</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="669">
+        <Coords points="648,1264 587,1277 607,1400 902,1425 1138,1412 1154,1412 1600,1397 1854,1408 1895,1394 1895,1328 1712,1292 1457,1295 1337,1320 1197,1312 1075,1308 1007,1308 984,1291 897,1271" />
+        <TextEquiv>
+          <Unicode>The term Excuse is herein after employ=­</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="670">
+        <Coords points="190,1452 144,1464 147,1558 861,1584 1357,1574 1872,1581 1885,1477 1664,1424 1195,1458 958,1450 812,1448 808,1448 445,1420 272,1427" />
+        <TextEquiv>
+          <Unicode>­:ed for shortness instead of saying, ground of the Ex=­</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="671">
+        <Coords points="1054,1605 1132,1605 1132,1610 1122,1655 1077,1662 1067,1644" />
+        <TextEquiv>
+          <Unicode>3</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="672">
+        <Coords points="160,1605 645,1601 668,1660 670,1660 584,1677 582,1677 194,1685 160,1687 154,1664" />
+        <TextEquiv>
+          <Unicode>­:cusetenuation.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="673">
+        <Coords points="855,1630 912,1632 934,1675 1125,1660 1437,1662 1418,1712 1177,1715 1097,1710 1088,1674 985,1682 901,1685 860,1682 858,1648" />
+        <TextEquiv>
+          <Unicode>2 Extenuation</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="674">
+        <Coords points="720,1647 555,1711 561,1748 622,1785 627,1785 725,1794 911,1760 948,1768 1001,1794 1397,1798 1831,1775 1915,1760 1911,1707 1602,1702 1551,1695 1387,1720 1324,1705 1242,1720 1097,1707 1078,1672 1077,1672 944,1684 940,1684 844,1688 778,1664" />
+        <TextEquiv>
+          <Unicode>A ground of Excuse is any circumstance</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="675">
+        <Coords points="1507,1807 1870,1794 1851,1864 1810,1841 1635,1878 1500,1855 1500,1832" />
+        <TextEquiv>
+          <Unicode>the offence</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="676">
+        <Coords points="228,1822 164,1840 147,1920 344,1925 348,1927 517,1911 592,1942 597,1944 655,1942 827,1935 831,1935 1274,1942 1451,1964 1570,1960 1578,1960 1860,1937 1857,1880 1820,1847 1758,1852 1755,1854 1600,1875 1454,1848 1197,1831 1192,1831 908,1850 897,1845 894,1845 620,1822 292,1815" />
+        <TextEquiv>
+          <Unicode>the existence of which when applied to any act in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="677">
+        <Coords points="188,1974 151,2001 151,2005 175,2097 641,2114 642,2114 1210,2108 1224,2107 1231,2107 1830,2098 1850,2004 1801,1974 1664,1982 1650,1982 1478,1991 1468,1991 1211,1961 1208,1961 870,1962 855,1964 852,1965 544,1961 211,1960" />
+        <TextEquiv>
+          <Unicode>question, brings it within one of the cases in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="678">
+        <Coords points="175,2124 145,2132 145,2135 161,2238 498,2231 927,2235 931,2238 1227,2272 1238,2275 1251,2277 1570,2252 1780,2254 1790,2257 1797,2258 1881,2241 1890,2184 1852,2140 1741,2134 1738,2134 1538,2130 1400,2130 1187,2128 531,2128 414,2130 402,2131 397,2131 291,2121 228,2121" />
+        <TextEquiv>
+          <Unicode>which the punishment provided for the act, is or</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="679">
+        <Coords points="182,2271 158,2288 155,2358 200,2374 210,2377 214,2378 604,2387 975,2395 1338,2397 1647,2414 1904,2390 1915,2297 1814,2280 1812,2280 1617,2277 1601,2277 1331,2282 1320,2285 1311,2288 938,2261 928,2264 732,2261 547,2261 535,2264 525,2265 252,2265" />
+        <TextEquiv>
+          <Unicode>may be such as to fall short more or less of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="680">
+        <Coords points="231,2408 124,2424 138,2537 382,2558 394,2561 1041,2554 1672,2544 1905,2538 1918,2447 1650,2428 1641,2430 1298,2415 1022,2411 1018,2411 668,2410 444,2417 338,2410" />
+        <TextEquiv>
+          <Unicode>punishment otherwise appointed for the offence.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="681">
+        <Coords points="1025,2585 1124,2585 1181,2640 1107,2644 1035,2642 1025,2602" />
+        <TextEquiv>
+          <Unicode>4</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="682">
+        <Coords points="1460,2602 1617,2615 1737,2601 1830,2608 1810,2682 1804,2682 1567,2665 1507,2672 1477,2655 1454,2654" />
+        <TextEquiv>
+          <Unicode>Extenuation</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="683">
+        <Coords points="672,2627 661,2621 525,2615 502,2714 722,2758 1075,2765 1082,2768 1295,2770 1484,2760 1557,2760 1562,2744 1882,2751 1877,2690 1741,2685 1531,2661 1491,2661 1435,2648 1342,2638 1107,2662 1102,2662 990,2631 831,2610 717,2610" />
+        <TextEquiv>
+          <Unicode>The effect of a ground of Excuse is ac=­</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="684">
+        <Coords points="161,2771 152,2868 550,2884 1108,2901 1468,2914 1812,2885 1890,2881 1894,2808 1841,2781 1691,2774 1674,2774 1487,2797 1287,2790 1284,2790 1027,2787 845,2772 838,2772 702,2770 511,2768 284,2771 234,2768 230,2768 192,2767" />
+        <TextEquiv>
+          <Unicode>­:cordingly to indicate the propriety of remitting a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="685">
+        <Coords points="158,2911 321,2934 328,2934 621,2922 624,2925 902,2908 908,2908 1288,2934 1588,2927 1788,2918 1891,2930 1902,3011 1901,3011 1827,3062 1821,3062 1687,3070 1675,3067 1667,3064 1502,3061 1360,3070 1328,3070 1042,3062 894,3010 831,3027 807,3008 805,3008 638,3051 205,3032 200,3032 147,3040 137,2964" />
+        <TextEquiv>
+          <Unicode>greater or a lesser part or possibly, if the Judge</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="686">
+        <Coords points="218,3057 152,3075 170,3152 177,3162 371,3194 482,3151 622,3164 767,3161 967,3185 1034,3214 1114,3172 1117,3172 1542,3188 1548,3188 1798,3204 1908,3192 1914,3121 1862,3088 1860,3088 1801,3077 1795,3077 1660,3071 1647,3071 1425,3077 1411,3077 1151,3088 1048,3081 971,3068 921,3095 855,3084 801,3090 761,3104 714,3087 684,3067 535,3070 525,3070 388,3057 380,3057 271,3055" />
+        <TextEquiv>
+          <Unicode>in his discretion think fit, even the whole of the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="687">
+        <Coords points="194,3201 135,3214 132,3224 132,3390 485,3325 722,3320 1075,3348 1371,3357 1387,3357 1530,3318 1442,3217 1300,3202 1291,3202 997,3227 990,3225 852,3191 741,3237 734,3237 574,3208 472,3208 244,3195" />
+        <TextEquiv>
+          <Unicode>punishment otherwise appointed.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="688">
+        <Coords points="1030,3367 1101,3370 1088,3440 1024,3434 1028,3401" />
+        <TextEquiv>
+          <Unicode>5</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="689">
+        <Coords points="560,3404 495,3484 495,3488 524,3514 525,3515 1050,3550 1055,3551 1847,3551 1885,3544 1890,3477 1534,3441 1127,3452 1035,3450 967,3425 641,3405" />
+        <TextEquiv>
+          <Unicode>An extenuative circumstance or circum=­</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="690">
+        <Coords points="204,3557 165,3591 177,3647 177,3651 310,3664 311,3665 527,3707 870,3677 1192,3681 1407,3688 1630,3691 1635,3691 1901,3678 1892,3594 1770,3562 1752,3562 1590,3564 1567,3564 1294,3562 1282,3564 1274,3564 938,3565 932,3565 710,3557 700,3557 547,3537 305,3557" />
+        <TextEquiv>
+          <Unicode>­:stance of extenuation is the same thing with a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="691">
+        <Coords points="211,3722 168,3747 168,3754 170,3835 171,3837 290,3837 292,3834 480,3851 484,3851 592,3825 607,3825 994,3830 1007,3830 1072,3808 1145,3815 1155,3814 1162,3814 1258,3778 1244,3747 1138,3721 768,3697 587,3701 485,3707 471,3707 364,3698 281,3714 278,3715 277,3718" />
+        <TextEquiv>
+          <Unicode>ground of Excuse extenuation.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="692">
+        <Coords points="1040,3835 1054,3810 1110,3817 1104,3882 1032,3870" />
+        <TextEquiv>
+          <Unicode>6</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="693">
+        <Coords points="560,3840 504,3827 477,3871 475,3874 500,3885 504,3885 618,3880 624,3880 807,3902 1042,3912 1054,3912 1140,3917 1195,3907 1198,3907 1398,3891 1435,3901 1480,3892 1580,3882 1681,3888 1687,3907 1732,3892 1771,3884 1772,3884 1870,3882 1877,3882 1907,3865 1907,3860 1887,3807 1820,3810 1810,3812 1492,3827 1482,3828 1471,3828 1147,3845 1115,3862 1061,3871 1018,3871 964,3858 797,3840" />
+        <TextEquiv>
+          <Unicode>Extenuations are either general or special. General</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="694">
+        <Coords points="205,3898 174,3907 174,3948 291,3950 404,3954 560,3938 707,3940 797,3955 1127,3955 1285,3957 1378,3938 1445,3951 1594,3945 1652,3945 1791,3958 2002,3945 2160,3920 2158,3882 2157,3882 2120,3862 2041,3852 2034,3850 1965,3862 1848,3878 1767,3882 1765,3882 1717,3898 1708,3901 1678,3905 1618,3881 1612,3881 1512,3897 1507,3897 1440,3894 1434,3894 1375,3900 1374,3900 1312,3898 1302,3900 1301,3901 1184,3911 1175,3911 1122,3915 1097,3898 1005,3898 937,3900 928,3902 802,3905 684,3905 602,3890 600,3890 547,3884 540,3884 487,3878 355,3875 348,3875 232,3884 231,3885 230,3885" />
+        <TextEquiv>
+          <Unicode>are applicable to all offences, special to certain offences only. &lt;gap/&gt; &lt;gap/&gt;</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>UPV-PRHLT</Creator>
+    <Created>2013-03-08T06:03:58</Created>
+    <LastChange>2015-12-14T11:11:37</LastChange>
+  </Metadata>
+  <Page imageFilename="071_129_003.jpg" imageHeight="4096" imageWidth="2731">
+    <TextRegion id="t1">
+      <Coords points="325,250 705,230 1027,272 1152,244 1788,252 1800,391 1438,400 313,400 330,252" />
+      <TextLine id="3249">
+        <Coords points="1172,260 1177,260 1197,280 1427,280 1433,286 1559,286 1570,297 1762,297 1762,319 1769,326 1769,327 1766,330 1766,331 1765,332 1765,333 1759,339 1759,340 1752,347 1748,347 1747,348 1747,350 1745,352 1744,352 1743,353 1742,353 1740,355 1528,355 1488,395 1481,395 1480,396 993,396 992,395 991,395 990,394 936,394 935,393 897,393 896,392 858,392 857,391 845,391 844,390 842,390 837,385 368,385 367,384 366,384 364,382 364,375 338,349 338,341 339,340 339,338 340,337 340,336 341,335 341,333 342,332 342,331 343,330 343,329 344,328 344,327 349,322 349,321 350,320 350,319 351,318 351,317 353,315 353,314 354,313 354,312 356,310 356,309 358,307 358,306 360,304 360,303 361,302 361,301 363,299 363,298 371,290 371,289 376,284 385,284 386,283 403,283 421,265 422,265 424,263 425,263 426,262 948,278 1014,291 1169,262 1170,261 1171,261" />
+        <TextEquiv>
+          <Unicode>Of Semi-public Offences in General.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="t2">
+      <Coords points="175,461 1963,466 1963,3466 1961,3963 169,3988 177,452" />
+      <TextLine id="3250">
+        <Coords points="612,502 615,502 623,510 1073,510 1076,513 1901,513 1901,520 1920,539 1920,542 1921,543 1921,550 1920,551 1920,553 1919,554 1919,556 1914,561 1896,561 1895,562 1895,563 1873,563 1872,564 1833,564 1832,565 1815,565 1814,566 1057,566 1043,580 1032,580 1030,582 1029,582 1028,583 793,583 792,584 792,586 790,588 790,589 788,591 787,591 786,592 748,554 734,554 733,553 726,553 725,552 423,552 422,551 406,551 405,550 307,550 306,549 215,549 214,548 213,548 212,547 212,546 213,545 213,542 214,541 214,540 215,539 215,538 217,536 217,535 221,531 250,531 277,504 610,504" />
+        <TextEquiv>
+          <Unicode>calamities can have any direct effect. Nor even can this distinction be</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3251">
+        <Coords points="192,654 192,741 1937,741 1937,654 1674,634 1042,645" />
+        <TextEquiv>
+          <Unicode>of any use in distinguishing the calamities themselves. Pestilence or</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3252">
+        <Coords points="192,795 192,905 1941,905 1941,795" />
+        <TextEquiv>
+          <Unicode>Contagion may indeed be distinguished into that which threatens</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3253">
+        <Coords points="201,945 201,1070 1927,1070 1927,945" />
+        <TextEquiv>
+          <Unicode>the persons of men, and that which threatens the Animals that</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3254">
+        <Coords points="198,1098 198,1215 1948,1215 1948,1098" />
+        <TextEquiv>
+          <Unicode>are their property, and the doing any thing by which the danger</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3255">
+        <Coords points="200,1242 200,1371 1888,1371 1888,1242" />
+        <TextEquiv>
+          <Unicode>of the first kind of pestilence and that alone may be increased,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3256">
+        <Coords points="194,1392 194,1531 1915,1531 1915,1392" />
+        <TextEquiv>
+          <Unicode>will be purely an offence against person. But upon the plan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3257">
+        <Coords points="190,1555 190,1685 1922,1685 1922,1555" />
+        <TextEquiv>
+          <Unicode>of division one can hardly take another step. Famine considered</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3258">
+        <Coords points="192,1701 192,1827 1915,1827 1915,1701" />
+        <TextEquiv>
+          <Unicode>at a certain period is a calamity that affects the person; but if</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3259">
+        <Coords points="194,1872 194,1992 1911,1992 1911,1872" />
+        <TextEquiv>
+          <Unicode>it comes at length to affect the person, it is only by its having</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3260">
+        <Coords points="182,2031 1910,2038 1907,2127 942,2127 932,2130 927,2131 852,2152 840,2155 797,2155 724,2152 720,2152 628,2144 552,2144 442,2148 431,2151 224,2151 195,2145" />
+        <TextEquiv>
+          <Unicode>first affected property. Of noxious animals some indeed are de=­</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3261">
+        <Coords points="918,2158 988,2137 1017,2131 1027,2131 1180,2132 1231,2132 1244,2134 1254,2135 1265,2138 1277,2138 1340,2140 1355,2142 1461,2145 1471,2147 1514,2147 1545,2154 1547,2160 1511,2197 1500,2198 1491,2198 1462,2207 1450,2204 1441,2202 1388,2192 1377,2192 1307,2195 1268,2181 1267,2181 1244,2180 1160,2180 1092,2164 1051,2172 1045,2175 1030,2182 1017,2182 995,2170 994,2170 948,2167 918,2167" />
+        <TextEquiv>
+          <Unicode>without threatening any</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3262">
+        <Coords points="957,2194 1000,2212 1010,2215 1061,2215 1091,2211 1120,2211 1185,2215 1207,2215 1261,2214 1271,2197 1272,2192 1255,2180 1191,2180 1168,2178 1155,2175 1121,2168 1111,2165 1101,2164 1084,2164 1071,2168 1068,2168 1057,2172 1048,2177 1040,2178 1028,2180 1008,2180 975,2177 972,2184" />
+        <TextEquiv>
+          <Unicode>at the same</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3263">
+        <Coords points="204,2227 330,2205 352,2205 497,2202 588,2202 778,2204 828,2204 982,2218 994,2220 1064,2220 1081,2221 1104,2221 1162,2222 1177,2224 1221,2224 1290,2225 1322,2225 1472,2222 1487,2222 1492,2221 1605,2200 1672,2200 1765,2201 1778,2202 1791,2204 1797,2204 1891,2207 1900,2210 1934,2217 1934,2225 1924,2282 1904,2282 1551,2307 1537,2307 955,2321 941,2321 924,2322 572,2315 500,2315 192,2268" />
+        <TextEquiv>
+          <Unicode>­:structive to men's property, that there &lt;gap/&gt; no mischief to their per=­</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3264">
+        <Coords points="212,2348 472,2345 515,2345 1124,2342 1168,2342 1922,2335 1947,2385 1945,2400 1925,2438 1914,2441 1895,2442 1867,2442 1348,2458 1291,2458 1120,2461 1108,2462 1057,2462 1005,2468 905,2468 724,2465 692,2465 524,2464 435,2464 227,2425 221,2425 198,2421" />
+        <TextEquiv>
+          <Unicode>­:sons: but others, such as the stronger kinds of carniverous animals</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3265">
+        <Coords points="940,2510 1065,2510 1131,2512 1178,2512 1278,2511 1290,2514 1338,2498 1338,2490 1331,2457 1227,2457 1168,2461 1157,2462 1142,2464 1124,2464 1025,2465 1014,2470 1004,2471 992,2474 988,2475 947,2478" />
+        <TextEquiv>
+          <Unicode>man and beast.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3266">
+        <Coords points="205,2595 360,2632 541,2632 798,2617 872,2617 1168,2618 1188,2621 1204,2622 1297,2622 1790,2611 1804,2608 1810,2607 1882,2580 1901,2558 1901,2545 1898,2538 1880,2495 1872,2494 1781,2485 1752,2485 1557,2490 1541,2491 1482,2491 1377,2511 1367,2514 1354,2517 1348,2517 1275,2522 1181,2524 1171,2525 830,2525 798,2514 784,2510 765,2507 754,2504 677,2490 585,2490 447,2510 437,2514 427,2515 414,2518 400,2520 387,2522 375,2524 278,2540 230,2540 200,2534" />
+        <TextEquiv>
+          <Unicode>are equally formidable to men and cattle. And as to Collapsion,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3267">
+        <Coords points="194,2708 247,2745 261,2747 277,2751 575,2768 587,2771 601,2772 611,2774 622,2775 635,2777 648,2777 830,2775 985,2775 1398,2764 1414,2764 1575,2745 1585,2748 1730,2755 1741,2754 1760,2751 1905,2720 1872,2641 1870,2640 1781,2635 1551,2635 1538,2637 1520,2638 1457,2638 1345,2655 1332,2657 1317,2658 1134,2658 1017,2652 968,2652 955,2651 824,2648 812,2651 798,2652 724,2652 657,2657 647,2658 332,2658 287,2660 274,2655 262,2651 188,2645" />
+        <TextEquiv>
+          <Unicode>Inundation, Tempest, Blight, Conflagration, and Explosion, it is</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3268">
+        <Coords points="201,2822 215,2818 471,2817 498,2817 1941,2804 1937,2907 1928,2910 1310,2930 1245,2930 380,2928 365,2931 348,2932 188,2918" />
+        <TextEquiv>
+          <Unicode>plain that to these calamities, man and every thing that is subser=­</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3269">
+        <Coords points="187,2978 1537,2961 1504,3067 940,3064 930,3065 647,3094 628,3094 254,3078 241,3078 230,3077 227,3075 198,3064" />
+        <TextEquiv>
+          <Unicode>­vient to the use of Men, stand alike exposed.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3270">
+        <Coords points="442,3152 531,3141 1528,3145 1887,3168 1892,3170 1941,3204 1942,3215 1942,3221 1941,3252 1930,3255 1917,3258 1904,3258 1675,3268 1607,3268 1248,3270 1231,3270 685,3277 671,3277 555,3267 425,3205" />
+        <TextEquiv>
+          <Unicode>For judging whether the enumeration is compleat the most com=­</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3271">
+        <Coords points="200,3325 211,3327 450,3315 768,3298 777,3301 1031,3308 1044,3310 1115,3310 1455,3317 1462,3317 1822,3318 1847,3318 1935,3314 1944,3321 1945,3324 1964,3362 1964,3374 1961,3381 1934,3410 1924,3414 1912,3417 1900,3418 1884,3421 1868,3424 1854,3428 1841,3431 1834,3431 1730,3437 1715,3437 1702,3434 1545,3424 1515,3424 1497,3425 1487,3427 1478,3427 1421,3428 1408,3431 975,3431 551,3425 507,3425 492,3424 480,3422 465,3420 452,3417 285,3388 271,3384 252,3380 242,3377 232,3375 218,3372 212,3371 171,3354" />
+        <TextEquiv>
+          <Unicode>­:modious division seems to be that which results from considering the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3272">
+        <Coords points="192,3491 285,3468 298,3471 330,3471 864,3474 902,3474 1271,3464 1624,3464 1638,3467 1675,3467 1884,3468 1925,3504 1928,3514 1930,3525 1930,3528 1937,3567 1927,3571 1915,3571 1711,3574 1700,3577 1687,3578 1677,3581 1672,3582 1631,3598 1621,3600 1350,3600 1231,3602 1220,3604 1044,3604 952,3605 730,3605 714,3604 684,3604 542,3602 502,3602 488,3601 475,3598 357,3585 275,3585 212,3582 207,3572 205,3530" />
+        <TextEquiv>
+          <Unicode>subject in two points of view successively: viz. 1. With regard to the</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3273">
+        <Coords points="180,3680 181,3668 251,3627 262,3625 371,3625 385,3628 404,3631 417,3632 712,3634 1007,3635 1272,3635 1440,3637 1507,3637 1648,3638 1688,3638 1841,3624 1852,3625 1860,3625 1927,3644 1932,3651 1958,3695 1950,3702 1782,3742 1772,3745 1761,3745 1712,3751 1657,3751 1280,3750 1270,3751 1017,3751 961,3755 951,3758 867,3758 788,3764 747,3764 732,3761 725,3760 500,3751 487,3747 472,3744 462,3742 452,3741 435,3737 427,3735 364,3720 347,3720 268,3735 257,3737 244,3738 237,3738 182,3702" />
+        <TextEquiv>
+          <Unicode>objects which they may more immediately affect. 2. With regard to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3274">
+        <Coords points="184,3835 192,3825 224,3781 1017,3781 1030,3784 1395,3784 1537,3777 1591,3777 1602,3775 1615,3775 1758,3787 1767,3792 1782,3815 1781,3825 1775,3838 1772,3844 1748,3872 1681,3872 1670,3871 1668,3871 1618,3870 1605,3872 1592,3875 1578,3878 1571,3880 1478,3898 1465,3898 1451,3901 1331,3901 1192,3908 1182,3910 1017,3910 878,3918 554,3918 288,3907 277,3901 262,3894 258,3891 198,3858" />
+        <TextEquiv>
+          <Unicode>the sources from whence they may be derived have issued.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3275">
+        <Coords points="1697,3878 1695,3890 1697,3941 1707,3944 1714,3945 1747,3950 1755,3951 1814,3948 1824,3941 1832,3934 1834,3911 1832,3901 1832,3888 1828,3872 1817,3868 1808,3862 1798,3860 1767,3861 1758,3864 1705,3871" />
+        <TextEquiv>
+          <Unicode>The</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
